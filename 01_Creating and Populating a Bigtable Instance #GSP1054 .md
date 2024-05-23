@@ -2,7 +2,8 @@
 >🚨 [PLEASE SUBSCRIBE OUR CHANNEL CLOUDHUSTLER](https://www.youtube.com/@cloudhustlers) **&** [JOIN OUR COMMUNITY](https://chat.whatsapp.com/KBfUcSleGGEFf2Xvvm8FW3)
 ## Run in cloudshell
 ```cmd
-export ZONE=
+export ZONE=us-east5-a
+
 ```
 ```cmd
 gcloud services disable dataflow.googleapis.com
